@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/11 16:13:38.000.495,=C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/11 16:14:12.000.975,C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\ExtraDigital\uPrincipal.dfm</Transaction>
+    <Transaction>2020/07/11 16:14:12.000.975,C:\Users\supero\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\ExtraDigital\uPrincipal.pas</Transaction>
+    <Transaction>2020/07/11 16:14:30.000.044,C:\Users\supero\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\ExtraDigital\ExtraDigital.dproj</Transaction>
+    <Transaction>2020/07/11 16:15:19.000.322,=C:\Projetos\ExtraDigital\Unit2.pas</Transaction>
+    <Transaction>2020/07/11 16:15:26.000.470,C:\Projetos\ExtraDigital\Unit2.dfm=C:\Projetos\ExtraDigital\uMaster.dfm</Transaction>
+    <Transaction>2020/07/11 16:15:26.000.470,C:\Projetos\ExtraDigital\Unit2.pas=C:\Projetos\ExtraDigital\uMaster.pas</Transaction>
+    <Transaction>2020/07/11 18:11:19.000.837,=C:\Projetos\ExtraDigital\Unit3.pas</Transaction>
+    <Transaction>2020/07/11 18:11:52.000.407,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/11 18:12:15.000.852,C:\Projetos\ExtraDigital\Unit1.pas=C:\Projetos\ExtraDigital\uCadMaster.pas</Transaction>
+    <Transaction>2020/07/11 18:12:15.000.852,C:\Projetos\ExtraDigital\Unit1.dfm=C:\Projetos\ExtraDigital\uCadMaster.dfm</Transaction>
+    <Transaction>2020/07/11 18:25:47.000.403,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/11 18:25:54.000.825,C:\Projetos\ExtraDigital\Unit1.pas=C:\Projetos\ExtraDigital\uConexaoBanco.pas</Transaction>
+    <Transaction>2020/07/12 11:15:03.000.253,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/12 11:16:05.000.061,=C:\Projetos\ExtraDigital\Unit2.pas</Transaction>
+    <Transaction>2020/07/12 11:16:16.000.378,C:\Projetos\ExtraDigital\Unit2.pas=C:\Projetos\ExtraDigital\udmConexao.pas</Transaction>
+    <Transaction>2020/07/12 11:16:16.000.378,C:\Projetos\ExtraDigital\Unit2.dfm=C:\Projetos\ExtraDigital\udmConexao.dfm</Transaction>
+    <Transaction>2020/07/12 11:17:52.000.532,C:\Projetos\ExtraDigital\Unit1.pas=C:\Projetos\ExtraDigital\uCadPessoa.pas</Transaction>
+    <Transaction>2020/07/12 11:17:52.000.532,C:\Projetos\ExtraDigital\Unit1.dfm=C:\Projetos\ExtraDigital\uCadPessoa.dfm</Transaction>
+    <Transaction>2020/07/12 18:15:21.000.851,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/12 18:15:30.000.878,C:\Projetos\ExtraDigital\udmCadPessoa.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/12 18:15:30.000.878,C:\Projetos\ExtraDigital\udmCadPessoa.dfm=C:\Projetos\ExtraDigital\Unit1.dfm</Transaction>
+    <Transaction>2020/07/12 18:59:21.000.871,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/12 18:59:45.000.121,C:\Projetos\ExtraDigital\uPesquisa.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/12 18:59:45.000.121,C:\Projetos\ExtraDigital\uPesquisa.dfm=C:\Projetos\ExtraDigital\Unit1.dfm</Transaction>
+    <Transaction>2020/07/13 15:39:29.000.858,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 15:40:17.000.260,C:\Projetos\ExtraDigital\uCadEmpresa.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 15:40:17.000.260,C:\Projetos\ExtraDigital\uCadEmpresa.dfm=C:\Projetos\ExtraDigital\Unit1.dfm</Transaction>
+    <Transaction>2020/07/13 15:44:45.000.368,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 15:44:54.000.905,C:\Projetos\ExtraDigital\udmCadEmpresa.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 15:44:54.000.905,C:\Projetos\ExtraDigital\udmCadEmpresa.dfm=C:\Projetos\ExtraDigital\Unit1.dfm</Transaction>
+    <Transaction>2020/07/13 17:51:13.000.454,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 17:51:43.000.340,C:\Projetos\ExtraDigital\uEndereco.dfm=C:\Projetos\ExtraDigital\Unit1.dfm</Transaction>
+    <Transaction>2020/07/13 17:51:43.000.340,C:\Projetos\ExtraDigital\uEndereco.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/14 10:54:52.000.573,=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+    <Transaction>2020/07/14 10:55:03.000.260,C:\Projetos\ExtraDigital\uFuncoesExtra.pas=C:\Projetos\ExtraDigital\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
